@@ -1,0 +1,25 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+
+# Build artifacts (in case anyone clones into a build directory)
+*.o
+*.ko
+*.ko.xz
+*.mod
+*.mod.c
+.tmp_versions/
+modules.order
+Module.symvers
+
+# Downloaded firmware (this stays out of the repo — too large)
+hailo10h_fw_*/
+*.bin
+*.itb
+*.signed
+
+# Logs from local testing
+*.log
