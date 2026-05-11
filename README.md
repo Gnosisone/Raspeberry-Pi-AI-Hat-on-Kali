@@ -1,4 +1,4 @@
-# Hailo-10H AI HAT+ on Kali Linux ARM64
+# The official Raspberry Pi AI Hat +2 Hailo-10H AI HAT+ on Kali Linux ARM64
 
 > Getting the Raspberry Pi AI HAT+ (Hailo-10H NPU, 26 TOPS) running on Kali Linux ARM64 — the hard way, documented end-to-end.
 
